@@ -11,13 +11,13 @@
 
 |Company Name|Remarks|
 |---|---|
-|Shandar Momo & Stick Foods Saraswatinagar| Account Name: Tek Narayan Account Number: 99857|
+|Shandar Momo & Stick Foods Saraswatinagar| Account Name: Tek Narayan Shrestha Account Number: 0030050141458|
 
 
 
-## Explanation
+## Notes
 
-### Personal QR
+##### Personal QR
 Using Personal Account for receiving payment
 
-### Fake Bill
+##### Fake Bill
