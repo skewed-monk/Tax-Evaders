@@ -18,4 +18,4 @@
 ## Notes
 
 ##### Personal QR
-Using Personal Account for receiving payment instead of reporting the transactio in the book
+Using Personal Account for receiving payment instead of reporting the transaction in company account.
