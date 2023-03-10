@@ -2,7 +2,7 @@
 ## Companies list
 
 |Company Name|Address|
-|---|---|---|
+|---|---|
 |Shandar Momo & Stick Foods Saraswatinagar|[Saraswati Nagar, Kathmandu (P9G3+7P Kathmandu)](https://maps.app.goo.gl/biwBZQDzkkh6sVX46?g_st=ic)|
 |Some tea shop | asd |
 
