@@ -18,6 +18,4 @@
 ## Notes
 
 ##### Personal QR
-Using Personal Account for receiving payment
-
-##### Fake Bill
+Using Personal Account for receiving payment instead of reporting the transactio in the book
