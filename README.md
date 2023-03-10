@@ -9,9 +9,9 @@
 
 ## Details
 
-|Company Name|Account Name| Account No.| Transaction ID| Transaction Picture|
-|---|---|---|---|---|
-|Shandar Momo & Stick Foods Saraswatinagar| Tek Narayan Shrestha | 0030050141458| ||
+|Company Name|Account Name| Account No.| Payment Institution | Transaction ID| Transaction Picture|
+|---|---|---|---|---|---|
+|Shandar Momo & Stick Foods Saraswatinagar| Tek Narayan Shrestha | 0030050141458| | ||
 
 
 
