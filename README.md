@@ -3,7 +3,7 @@
 
 |Company Name|Address|Technique|  
 |---|---|---|
-|Shandar Momo & Stick Foods Saraswatinagar|[Saraswati Nagar, Kathmandu](https://maps.app.goo.gl/biwBZQDzkkh6sVX46?g_st=ic)| [Personal QR](#personal-qr) |
+|Shandar Momo & Stick Foods Saraswatinagar|[Saraswati Nagar, Kathmandu (P9G3+7P Kathmandu)](https://maps.app.goo.gl/biwBZQDzkkh6sVX46?g_st=ic)| [Personal QR](#personal-qr) |
 |Some Momos|example| [Fake bill](#fake-bill)|
 
 
