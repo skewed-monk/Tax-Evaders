@@ -1,17 +1,17 @@
 
 ## Companies list
 
-|Company Name|Address|Technique|  
+|Company Name|Address|
 |---|---|---|
-|Shandar Momo & Stick Foods Saraswatinagar|[Saraswati Nagar, Kathmandu (P9G3+7P Kathmandu)](https://maps.app.goo.gl/biwBZQDzkkh6sVX46?g_st=ic)| [Personal QR](#personal-qr) |
-|Some Momos|example| [Fake bill](#fake-bill)|
+|Shandar Momo & Stick Foods Saraswatinagar|[Saraswati Nagar, Kathmandu (P9G3+7P Kathmandu)](https://maps.app.goo.gl/biwBZQDzkkh6sVX46?g_st=ic)|
+|Some tea shop | asd | 
 
 
 ## Details
 
-|Company Name|Account Name| Account No.|
+|Company Name|Account Name| Account No.| Transaction Picture
 |---|---|---|
-|Shandar Momo & Stick Foods Saraswatinagar| Tek Narayan Shrestha | 0030050141458|
+|Shandar Momo & Stick Foods Saraswatinagar| Tek Narayan Shrestha | 0030050141458| 
 
 
 
